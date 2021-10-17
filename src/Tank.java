@@ -21,7 +21,7 @@ public class Tank {
             System.out.println("The Tank is at 60 now.");
         if (a < 0)
             System.out.println("The Tank is at -40 now.");
-        Cat barsik = new Cat();
+        
         
 
     }
